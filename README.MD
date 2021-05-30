@@ -19,3 +19,9 @@
 [website]: clodufn.dev
 [Discord]: https://discord.gg/MfXNpTg4EV
 [twitter]: https://twitter.com/Sky10167208300
+
+### About me
+
+- I am 17
+- I like Fortnite and Coding
+- I am NOT single :heart:
