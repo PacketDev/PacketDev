@@ -1,7 +1,5 @@
 ### Hi there, I'm Ken - aka [!Sky][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cloudfn.dev)
-
 ## I'm a Developer!
 
 - 🔭 im working on a project called "Project Cloud"
