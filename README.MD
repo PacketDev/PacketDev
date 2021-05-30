@@ -6,12 +6,7 @@
 ## I'm Developer
 
 - 🔭 I'm currently wokring on a Fortnite Private server called "Project Cloud"!
-- 🌱 I’m currently c++ and lua 🤣
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🌱 I’m currently c++ and lua
 
 ### Connect with me:
 
