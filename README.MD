@@ -15,4 +15,3 @@
 
 - I am 17
 - I like Fortnite and Coding
-- I am NOT single :heart:
