@@ -1,5 +1,6 @@
 
 Hi my name is Sky i am 18 years old and i like to code
+My Pronouns are: he/him
 
 ### Discord
 <img src="https://discord.c99.nl/widget/theme-4/839403357546217483.png"/>
