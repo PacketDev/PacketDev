@@ -1,5 +1,5 @@
 
-Hi my name is PacketDev i am 18 years old and i like to code
+Hi my name is Packet i am 18 years old and i like to code
 
 My Pronouns are: he/him
 
