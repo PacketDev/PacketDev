@@ -1,10 +1,7 @@
 
-Hi my name is Packet i am 18 years old and i like to code
+Hi my name is Packet i am 19 years old and i like to code
 
 My Pronouns are: he/him
-
-### Discord
-<img src="https://discord.c99.nl/widget/theme-4/839403357546217483.png"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
