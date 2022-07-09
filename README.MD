@@ -10,6 +10,3 @@ My Pronouns are: he/him
 <img align="left" alt="Node" width="31px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"/>
 <br />
 <br />
-
-![ghstats](https://github-readme-stats.vercel.app/api?username=PacketDev-ai&theme=dark&show_icons=true)
-<!--![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e)-->
