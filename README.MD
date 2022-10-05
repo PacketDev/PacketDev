@@ -1,7 +1,4 @@
-
-Hi my name is Packet i am 19 years old and i like to code
-
-My Pronouns are: he/him
+I like coding
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
