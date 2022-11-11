@@ -4,7 +4,7 @@ Hi I'm Skies!
 I personally code in JS/C# & I like to Mod Games/websites sometimes I also like to watch anime in my free time
 
 ### Contact
-Twitter: NotSkieslol
+Twitter: NotSkieslol <br />
 Discord: Skies#2001
 
 ### Github Stats
